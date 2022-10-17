@@ -1,4 +1,4 @@
-## Hi, this's who I am 😳😳😳
+## Hi, this is who I am 😳😳😳
 <div align="center">
   <a href="https://github.com/AlissonAnjos21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonAnjos21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
