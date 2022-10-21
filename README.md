@@ -1,5 +1,5 @@
 ## Hi, this is who I am 😳😳😳
-<p>I really like all about Artificial Intelligence and currently I'm learning about Machine Learning 🧐📖</p>
+<p>- I really like all about Artificial Intelligence and currently I'm learning about Machine Learning 🧐📖</p>
 <div align="center">
   <a href="https://github.com/AlissonAnjos21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlissonAnjos21&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
