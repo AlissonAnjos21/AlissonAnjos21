@@ -29,5 +29,6 @@
   <img align="center" alt="PostgreSQL" title="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Haskell" title="Haskell" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg">
   <img align="center" alt="C++" title="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Prolog" title="Prolog" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prolog/prolog-original.svg">
   <img align="right" alt="gif" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/o9QVHhJdqZmWnrQG6b/giphy.gif?width=676&height=676">
 </div>
